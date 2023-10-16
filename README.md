@@ -7,7 +7,7 @@
 ## Навигация:
 1. DevOps лабораторные
    - [Лабораторная 1](https://github.com/verkalacheva/vukha_devops_lab_1.git)
-   - Лабораторная 2
+   - [Лабораторная 2](https://github.com/verkalacheva/vukha_devops_lab_2.git)
    - Лабораторная 3
 2. Теоретические лабораторные
    - Лабораторная 1
